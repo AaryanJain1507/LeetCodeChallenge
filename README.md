@@ -21,6 +21,7 @@
 ## Array
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0152-maximum-product-subarray) |
 | [0485-max-consecutive-ones](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0485-max-consecutive-ones) |
 | [0881-boats-to-save-people](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0881-boats-to-save-people) |
 ## Greedy
@@ -31,4 +32,8 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0881-boats-to-save-people) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
