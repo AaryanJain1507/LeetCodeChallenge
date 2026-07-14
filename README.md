@@ -12,6 +12,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0633-sum-of-square-numbers](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0633-sum-of-square-numbers) |
 | [0881-boats-to-save-people](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
@@ -48,4 +49,12 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0735-asteroid-collision) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0141-linked-list-cycle) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
