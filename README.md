@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0735-asteroid-collision) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Simulation
 |  |
 | ------- |
@@ -60,4 +61,8 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0142-linked-list-cycle-ii) |
+## String
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
