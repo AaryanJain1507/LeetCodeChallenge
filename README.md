@@ -26,6 +26,7 @@
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0152-maximum-product-subarray) |
 | [0485-max-consecutive-ones](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0735-asteroid-collision) |
 | [0881-boats-to-save-people](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0881-boats-to-save-people) |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0394-decode-string) |
+| [0503-next-greater-element-ii](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0735-asteroid-collision) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -82,4 +84,8 @@
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0394-decode-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
