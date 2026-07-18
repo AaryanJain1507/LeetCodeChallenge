@@ -10,6 +10,7 @@
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0633-sum-of-square-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2413-smallest-even-multiple](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2413-smallest-even-multiple) |
 ## Two Pointers
 |  |
 | ------- |
@@ -94,4 +95,5 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2413-smallest-even-multiple](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
