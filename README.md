@@ -38,6 +38,7 @@
 | [0881-boats-to-save-people](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Greedy
 |  |
 | ------- |
