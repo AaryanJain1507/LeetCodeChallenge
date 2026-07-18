@@ -16,6 +16,7 @@
 | [2413-smallest-even-multiple](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2413-smallest-even-multiple) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2652-sum-multiples) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Two Pointers
 |  |
 | ------- |
