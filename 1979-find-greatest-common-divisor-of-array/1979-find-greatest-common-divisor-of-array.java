@@ -8,18 +8,17 @@ class Solution {
             max = Math.max(max, num);
         }
 
-        for(int i = min; i >= 1; i--){
-            if(min % i == 0 && max % i == 0){
-                return i;
-            }
-        }
-
-        // while(min!=0){
-        //     int temp = min;
-        //     min = max % min;
-        //     max = temp;
+        // for(int i = min; i >= 1; i--){
+        //     if(min % i == 0 && max % i == 0){
+        //         return i;
+        //     }
         // }
-        // return max;
-        return 1;
+
+        while(min!=0){
+            int temp = min;
+            min = max % min;
+            max = temp;
+        }
+        return max;
     }
 }
