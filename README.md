@@ -94,6 +94,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1544-make-the-string-great) |
 | [2390-removing-stars-from-a-string](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2390-removing-stars-from-a-string) |
+| [3019-number-of-changing-keys](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3019-number-of-changing-keys) |
 | [3174-clear-digits](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3174-clear-digits) |
 ## Recursion
 |  |
