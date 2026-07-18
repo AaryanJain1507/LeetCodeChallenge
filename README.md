@@ -17,6 +17,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3024-type-of-triangle](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3024-type-of-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2798-number-of-employees-who-met-the-target) |
+| [3024-type-of-triangle](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3024-type-of-triangle) |
 ## Greedy
 |  |
 | ------- |
@@ -53,6 +55,7 @@
 | ------- |
 | [0881-boats-to-save-people](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [3024-type-of-triangle](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3024-type-of-triangle) |
 ## Dynamic Programming
 |  |
 | ------- |
