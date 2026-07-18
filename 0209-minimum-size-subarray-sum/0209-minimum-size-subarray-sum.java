@@ -3,8 +3,9 @@ class Solution {
         int length = Integer.MAX_VALUE;
         int left = 0;
         int sum = 0;
-        for(int right = 0; right < nums.length; right++){
-            sum+=nums[right];
+
+        for(int right = 0; right<nums.length; right++){
+            sum += nums[right];
 
             while(sum>=target){
                 length = Math.min(length, right - left + 1);
