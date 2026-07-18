@@ -109,4 +109,16 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
