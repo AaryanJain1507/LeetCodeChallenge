@@ -52,6 +52,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0316-remove-duplicate-letters) |
 | [0881-boats-to-save-people](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0881-boats-to-save-people) |
 ## Sorting
 |  |
@@ -66,6 +67,7 @@
 ## Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0394-decode-string) |
 | [0503-next-greater-element-ii](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0682-baseball-game) |
@@ -95,6 +97,7 @@
 ## String
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0796-rotate-string) |
@@ -111,6 +114,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0316-remove-duplicate-letters) |
 | [0503-next-greater-element-ii](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
 ## Number Theory
 |  |
