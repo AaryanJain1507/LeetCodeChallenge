@@ -9,17 +9,12 @@ class Solution {
         Stack<Character> stack = new Stack<>();
         HashSet<Character> set = new HashSet<>();
 
-        for(int i = 0; i < s.length(); i++) {
+        for(int i = 0; i< s.length(); i++){
             char ch = s.charAt(i);
-
-            if(set.contains(ch)) {
+            if(set.contains(ch)){
                 continue;
             }
-
-            while(!stack.isEmpty()
-                    && stack.peek() > ch
-                    && last[stack.peek() - 'a'] > i) {
-
+            while(!stack.isEmpty() && stack.peek() > ch && last[stack.peek()-'a'] > i){
                 set.remove(stack.pop());
             }
 
