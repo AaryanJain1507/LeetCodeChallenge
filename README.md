@@ -12,6 +12,7 @@
 | [0633-sum-of-square-numbers](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0633-sum-of-square-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1486-xor-operation-in-an-array) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1952-three-divisors](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2413-smallest-even-multiple) |
@@ -45,6 +46,7 @@
 | [0881-boats-to-save-people](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1550-three-consecutive-odds](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1550-three-consecutive-odds) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2798-number-of-employees-who-met-the-target) |
