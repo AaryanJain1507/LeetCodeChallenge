@@ -84,6 +84,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2390-removing-stars-from-a-string) |
@@ -105,6 +106,7 @@
 | [0316-remove-duplicate-letters](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
+| [0657-robot-return-to-origin](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
