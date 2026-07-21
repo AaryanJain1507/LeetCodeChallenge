@@ -200,4 +200,12 @@
 | ------- |
 | [1260-shift-2d-grid](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1260-shift-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1672-richest-customer-wealth) |
+## Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2236-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2236-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
