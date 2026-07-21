@@ -6,6 +6,7 @@
 | ------- |
 | [1291-sequential-digits](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1291-sequential-digits) |
 | [1952-three-divisors](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1952-three-divisors) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Math
 |  |
 | ------- |
@@ -133,6 +134,7 @@
 | [2942-find-words-containing-character](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3019-number-of-changing-keys) |
 | [3174-clear-digits](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3174-clear-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Recursion
 |  |
 | ------- |
