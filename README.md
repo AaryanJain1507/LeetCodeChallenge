@@ -29,6 +29,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0141-linked-list-cycle) |
@@ -46,6 +47,7 @@
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -82,6 +84,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0016-3sum-closest) |
 | [0881-boats-to-save-people](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [2974-minimum-number-game](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2974-minimum-number-game) |
