@@ -3,12 +3,13 @@ class Solution {
         Arrays.sort(nums);
         int diff = Integer.MAX_VALUE;
         int closestSum = 0;
-        for(int k = 0 ; k <nums.length-2; k++){
-            int i = k+1;
-            int j = nums.length-1;
+        for(int k = 0; k < nums.length - 2; k++){
+            int i = k + 1;
+            int j = nums.length - 1;
             while(i < j){
-                int sum = nums[i] + nums[k] + nums[j];
-                if (Math.abs(sum - target) < diff) {
+                int sum = nums[i] + nums[j] + nums[k];
+
+                if(Math.abs(sum - target)<diff){
                     diff = Math.abs(sum - target);
                     closestSum = sum;
                 }
@@ -22,7 +23,6 @@ class Solution {
                     i++;
                 }
             }
-            
         }
         return closestSum;
     }
