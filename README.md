@@ -68,6 +68,7 @@
 | [1550-three-consecutive-odds](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1920-build-array-from-permutation](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -120,6 +121,7 @@
 | [0682-baseball-game](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1260-shift-2d-grid) |
+| [1920-build-array-from-permutation](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1920-build-array-from-permutation) |
 | [2390-removing-stars-from-a-string](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2390-removing-stars-from-a-string) |
 | [2974-minimum-number-game](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2974-minimum-number-game) |
 | [3174-clear-digits](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3174-clear-digits) |
