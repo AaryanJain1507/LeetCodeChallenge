@@ -65,6 +65,7 @@
 | [0881-boats-to-save-people](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1260-shift-2d-grid) |
+| [1470-shuffle-the-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1470-shuffle-the-array) |
 | [1550-three-consecutive-odds](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1822-sign-of-the-product-of-an-array) |
