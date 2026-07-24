@@ -69,6 +69,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 | [1550-three-consecutive-odds](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1672-richest-customer-wealth) |
+| [1732-find-the-highest-altitude](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1929-concatenation-of-array) |
@@ -188,6 +189,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
 ## Design
 |  |
 | ------- |
