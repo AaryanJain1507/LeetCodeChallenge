@@ -58,6 +58,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0682-baseball-game) |
@@ -189,12 +190,14 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0303-range-sum-query-immutable) |
 | [0933-number-of-recent-calls](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
