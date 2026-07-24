@@ -61,6 +61,7 @@
 | [0485-max-consecutive-ones](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0682-baseball-game) |
+| [0724-find-pivot-index](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0735-asteroid-collision) |
 | [0881-boats-to-save-people](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
@@ -188,6 +189,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
 ## Design
