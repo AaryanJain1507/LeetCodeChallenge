@@ -47,6 +47,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0633-sum-of-square-numbers) |
+| [0704-binary-search](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0704-binary-search) |
 ## Array
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | [0485-max-consecutive-ones](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0735-asteroid-collision) |
 | [0881-boats-to-save-people](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0881-boats-to-save-people) |
