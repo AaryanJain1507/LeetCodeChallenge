@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0258-add-digits) |
 | [0633-sum-of-square-numbers](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0633-sum-of-square-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -46,6 +47,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0704-binary-search) |
