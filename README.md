@@ -79,6 +79,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2270-number-of-ways-to-split-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2270-number-of-ways-to-split-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2574-left-and-right-sum-differences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -197,6 +198,7 @@
 | [0724-find-pivot-index](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
+| [2270-number-of-ways-to-split-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2270-number-of-ways-to-split-array) |
 | [2574-left-and-right-sum-differences](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2574-left-and-right-sum-differences) |
 ## Design
 |  |
