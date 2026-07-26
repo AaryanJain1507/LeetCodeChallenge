@@ -14,6 +14,7 @@
 | [0069-sqrtx](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0367-valid-perfect-square) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0633-sum-of-square-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1486-xor-operation-in-an-array) |
@@ -71,6 +72,7 @@
 | [0303-range-sum-query-immutable](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0724-find-pivot-index) |
@@ -109,6 +111,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0016-3sum-closest) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [2974-minimum-number-game](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2974-minimum-number-game) |
