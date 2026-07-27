@@ -11,11 +11,12 @@ class Solution {
 
         while (start <= end) {
             int mid = start + (end - start) / 2;
+            long hours = hoursNeeded(piles, mid);
 
-            if (hoursNeeded(piles, mid) <= h) {
+            if (hours <= h) {
                 ans = mid;
                 end = mid - 1;
-            } else if (hoursNeeded(piles, mid) > h) {
+            } else if (hours > h) {
                 start = mid + 1;
             }
         }
