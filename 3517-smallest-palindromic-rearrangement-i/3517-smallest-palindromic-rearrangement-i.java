@@ -1,10 +1,9 @@
 class Solution {
     public String smallestPalindrome(String s) {
         HashMap<Character, Integer> map = new HashMap<>();
-        StringBuilder left = new StringBuilder();
         String middle = "";
-
-        for (char ch : s.toCharArray()) {
+        StringBuilder left = new StringBuilder();
+        for(char ch : s.toCharArray()){
             map.put(ch, map.getOrDefault(ch, 0) + 1);
         }
         for (char ch = 'a'; ch <= 'z'; ch++) {
