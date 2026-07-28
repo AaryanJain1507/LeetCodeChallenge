@@ -17,23 +17,23 @@ class Solution {
             }
             else{
                 start = mid + 1;
-            } 
+            }
         }
         return ans;
     }
     public int bouquetsMade(int[] bloomDay, int k, int day){
+        int flowers = 0;
         int bouquets = 0;
-        int flower = 0;
         for(int num : bloomDay){
             if(num <= day){
-                flower++;
-                if(flower == k){
+                flowers++;
+                if(flowers >= k){
                     bouquets++;
-                    flower = 0;
+                    flowers = 0;
                 }
             }
             else{
-                flower = 0;
+                flowers = 0;
             }
         }
         return bouquets;
