@@ -58,6 +58,7 @@
 | [0633-sum-of-square-numbers](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Array
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 | [0875-koko-eating-bananas](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1260-shift-2d-grid](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1470-shuffle-the-array) |
