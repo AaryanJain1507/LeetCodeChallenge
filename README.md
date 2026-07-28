@@ -124,6 +124,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3024-type-of-triangle) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
@@ -189,6 +190,7 @@
 | [3019-number-of-changing-keys](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3019-number-of-changing-keys) |
 | [3174-clear-digits](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3174-clear-digits) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Recursion
 |  |
 | ------- |
@@ -261,4 +263,8 @@
 |  |
 | ------- |
 | [2236-root-equals-sum-of-children](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2236-root-equals-sum-of-children) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
