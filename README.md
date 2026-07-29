@@ -14,6 +14,7 @@
 | [0069-sqrtx](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0633-sum-of-square-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -155,6 +156,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0735-asteroid-collision) |
@@ -182,6 +184,7 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0394-decode-string) |
+| [0412-fizz-buzz](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0443-string-compression) |
 | [0657-robot-return-to-origin](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
