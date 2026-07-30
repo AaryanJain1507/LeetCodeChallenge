@@ -29,6 +29,7 @@
 | [2652-sum-multiples](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3024-type-of-triangle](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -121,6 +122,7 @@
 | [0316-remove-duplicate-letters](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0316-remove-duplicate-letters) |
 | [0881-boats-to-save-people](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0881-boats-to-save-people) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
 | ------- |
@@ -198,6 +200,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2390-removing-stars-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2942-find-words-containing-character) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3019-number-of-changing-keys](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3019-number-of-changing-keys) |
 | [3174-clear-digits](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3174-clear-digits) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3499-maximize-active-section-with-trade-i) |
