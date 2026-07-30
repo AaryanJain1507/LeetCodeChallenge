@@ -42,6 +42,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0443-string-compression](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0443-string-compression) |
 | [0633-sum-of-square-numbers](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
@@ -176,6 +177,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0424-longest-repeating-character-replacement](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Linked List
@@ -183,6 +185,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
