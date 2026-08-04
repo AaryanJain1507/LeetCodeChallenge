@@ -13,6 +13,7 @@
 | [0066-plus-one](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
@@ -64,6 +65,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0704-binary-search) |
@@ -86,6 +88,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
@@ -137,6 +140,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0016-3sum-closest) |
+| [0268-missing-number](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
@@ -190,6 +194,7 @@
 | [0141-linked-list-cycle](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
+| [0268-missing-number](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -289,6 +294,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1486-xor-operation-in-an-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## String Matching
