@@ -6,6 +6,7 @@
 | ------- |
 | [1291-sequential-digits](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1291-sequential-digits) |
 | [1952-three-divisors](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1952-three-divisors) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Math
 |  |
@@ -34,6 +35,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3024-type-of-triangle](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
