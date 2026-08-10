@@ -23,6 +23,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1486-xor-operation-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1952-three-divisors](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -112,6 +113,7 @@
 | [1470-shuffle-the-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1512-number-of-good-pairs](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
 | [1550-three-consecutive-odds](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
@@ -201,6 +203,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
+| [1512-number-of-good-pairs](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3731-find-missing-elements) |
@@ -331,6 +334,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Game Theory
