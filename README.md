@@ -129,6 +129,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2574-left-and-right-sum-differences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2942-find-words-containing-character) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2974-minimum-number-game](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3024-type-of-triangle](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3024-type-of-triangle) |
@@ -207,6 +208,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [1512-number-of-good-pairs](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3731-find-missing-elements) |
@@ -280,6 +282,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
