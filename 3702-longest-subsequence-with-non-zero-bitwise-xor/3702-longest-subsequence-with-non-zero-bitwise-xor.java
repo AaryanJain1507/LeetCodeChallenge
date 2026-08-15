@@ -21,4 +21,4 @@ class Solution {
     }
 }
 
-// nums.length - 1   because if xor of some numbera is 0 and there is a non zero number from them then xor of remaining number after removing that nonZero number will always be non zero
+// nums.length - 1;   because if xor of some numbera is 0 and there is a non zero number from them then xor of remaining number after removing that nonZero number will always be non zero
