@@ -137,6 +137,7 @@
 | [3024-type-of-triangle](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
@@ -322,6 +323,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1486-xor-operation-in-an-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## String Matching
 |  |
 | ------- |
