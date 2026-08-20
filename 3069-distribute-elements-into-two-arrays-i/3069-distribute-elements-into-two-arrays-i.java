@@ -12,7 +12,7 @@ class Solution {
                 arr2.add(nums[i]);
             }
         }
-                int[] result = new int[nums.length];
+        int[] result = new int[nums.length];
         int index = 0;
 
         for (int num : arr1) {
