@@ -136,6 +136,7 @@
 | [2974-minimum-number-game](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3024-type-of-triangle](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3024-type-of-triangle) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -202,6 +203,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2390-removing-stars-from-a-string) |
 | [2974-minimum-number-game](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2974-minimum-number-game) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3174-clear-digits) |
 ## Hash Table
 |  |
