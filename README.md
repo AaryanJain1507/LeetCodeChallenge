@@ -132,6 +132,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2574-left-and-right-sum-differences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2942-find-words-containing-character) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2974-minimum-number-game](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -216,6 +217,7 @@
 | [1386-cinema-seat-allocation](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1386-cinema-seat-allocation) |
 | [1512-number-of-good-pairs](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
