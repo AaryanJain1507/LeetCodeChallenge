@@ -40,6 +40,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
 |  |
 | ------- |
