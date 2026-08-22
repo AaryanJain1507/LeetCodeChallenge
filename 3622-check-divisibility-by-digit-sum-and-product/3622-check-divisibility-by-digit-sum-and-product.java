@@ -10,9 +10,6 @@ class Solution {
             n/=10;
         }
         int total = sum + prod;
-        if(original%total==0) return true;
-        else{
-            return false;
-        }
+        return original % total == 0;
     }
 }
