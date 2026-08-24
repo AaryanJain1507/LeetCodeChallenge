@@ -142,6 +142,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3668-restore-finishing-order](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3668-restore-finishing-order) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3731-find-missing-elements) |
 ## Greedy
@@ -226,6 +227,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3668-restore-finishing-order](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
