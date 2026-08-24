@@ -216,6 +216,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
+| [0771-jewels-and-stones](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0771-jewels-and-stones) |
 | [1386-cinema-seat-allocation](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1386-cinema-seat-allocation) |
 | [1436-destination-city](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
@@ -252,6 +253,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0443-string-compression) |
 | [0657-robot-return-to-origin](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
+| [0771-jewels-and-stones](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
