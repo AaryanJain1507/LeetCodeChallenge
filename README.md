@@ -113,6 +113,7 @@
 | [1260-shift-2d-grid](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1260-shift-2d-grid) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1386-cinema-seat-allocation](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1386-cinema-seat-allocation) |
+| [1436-destination-city](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1436-destination-city) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
@@ -216,6 +217,7 @@
 | [0268-missing-number](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [1386-cinema-seat-allocation](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1386-cinema-seat-allocation) |
+| [1436-destination-city](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -253,6 +255,7 @@
 | [0796-rotate-string](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1436-destination-city](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1436-destination-city) |
 | [1544-make-the-string-great](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1544-make-the-string-great) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
