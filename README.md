@@ -130,6 +130,7 @@
 | [1929-concatenation-of-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -229,6 +230,7 @@
 | [1436-destination-city](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -272,6 +274,7 @@
 | [1544-make-the-string-great](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1544-make-the-string-great) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2390-removing-stars-from-a-string) |
@@ -376,6 +379,7 @@
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Game Theory
