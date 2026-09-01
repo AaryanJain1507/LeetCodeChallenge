@@ -396,5 +396,6 @@
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
