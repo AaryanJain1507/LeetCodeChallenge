@@ -17,3 +17,7 @@ class Solution {
         return true;
     }
 }
+// ok so the basic logic behind it is,  if the smallest number is odd;
+// we can subtract it from any number and make them odd as : odd - odd = odd;
+//                                                           even - odd = odd;
+// and if the smallest number is even then the whole array needs to be even; 
