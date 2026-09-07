@@ -90,6 +90,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -192,6 +193,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0152-maximum-product-subarray) |
@@ -419,5 +421,6 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
