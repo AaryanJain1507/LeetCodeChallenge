@@ -366,6 +366,7 @@
 | [0090-subsets-ii](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1386-cinema-seat-allocation](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1386-cinema-seat-allocation) |
@@ -415,4 +416,8 @@
 | ------- |
 | [0078-subsets](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0090-subsets-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
