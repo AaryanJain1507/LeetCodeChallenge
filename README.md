@@ -88,6 +88,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
@@ -236,6 +237,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0142-linked-list-cycle-ii) |
