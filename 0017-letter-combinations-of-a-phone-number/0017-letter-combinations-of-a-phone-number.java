@@ -16,7 +16,9 @@ class Solution {
         String mapping = arr[digits.charAt(index) - '0'];
 
         for(int i = 0;i<mapping.length();i++){
-            solve(digits, index + 1, current.append(mapping.charAt(i)), result, arr);
+            char ch = mapping.charAt(i);
+            current.append(ch);
+            solve(digits, index + 1, current, result, arr);
             current.deleteCharAt(current.length()-1);
         }
     }
