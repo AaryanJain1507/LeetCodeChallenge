@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0258-add-digits) |
@@ -207,6 +208,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0152-maximum-product-subarray) |
@@ -465,4 +467,8 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0187-repeated-dna-sequences) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
