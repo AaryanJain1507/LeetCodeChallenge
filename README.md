@@ -50,6 +50,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -206,6 +207,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0062-unique-paths) |
@@ -294,6 +296,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0187-repeated-dna-sequences](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0187-repeated-dna-sequences) |
@@ -471,4 +474,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0062-unique-paths) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
