@@ -1,7 +1,7 @@
 class Solution {
     public int totalNumbers(int[] digits) {
-        Set<Integer> seen = new HashSet<>();
         int n = digits.length;
+        HashSet<Integer> seen = new HashSet<>();
 
         for(int h = 0; h < n; h++){
             if(digits[h] == 0) continue;
@@ -10,7 +10,7 @@ class Solution {
                 if(t == h) continue;
 
                 for(int u = 0; u < n; u++){
-                    if(u == h || u == t) continue;
+                    if(u == t || u == h) continue;
 
                     if(digits[u] % 2 != 0) continue;
 
