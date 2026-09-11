@@ -99,6 +99,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0066-plus-one) |
@@ -451,6 +452,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0090-subsets-ii) |
 ## Divide and Conquer
@@ -482,4 +484,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
