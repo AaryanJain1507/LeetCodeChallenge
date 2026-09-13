@@ -196,6 +196,7 @@
 | [0016-3sum-closest](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0016-3sum-closest) |
 | [0268-missing-number](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
@@ -263,6 +264,7 @@
 | [0268-missing-number](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0771-jewels-and-stones](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0771-jewels-and-stones) |
 | [1386-cinema-seat-allocation](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1386-cinema-seat-allocation) |
@@ -307,6 +309,7 @@
 | [0187-repeated-dna-sequences](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0187-repeated-dna-sequences) |
 | [0316-remove-duplicate-letters](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
@@ -406,6 +409,7 @@
 | [0187-repeated-dna-sequences](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0187-repeated-dna-sequences) |
 | [0191-number-of-1-bits](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1386-cinema-seat-allocation](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1386-cinema-seat-allocation) |
 | [1486-xor-operation-in-an-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1486-xor-operation-in-an-array) |
