@@ -262,6 +262,7 @@
 | [0187-repeated-dna-sequences](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0771-jewels-and-stones](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0771-jewels-and-stones) |
 | [1386-cinema-seat-allocation](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1386-cinema-seat-allocation) |
@@ -305,6 +306,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0187-repeated-dna-sequences](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0187-repeated-dna-sequences) |
 | [0316-remove-duplicate-letters](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0316-remove-duplicate-letters) |
+| [0383-ransom-note](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
@@ -434,6 +436,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0383-ransom-note) |
 | [1512-number-of-good-pairs](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
