@@ -98,6 +98,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0053-maximum-subarray) |
@@ -258,6 +259,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
@@ -430,6 +432,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [1260-shift-2d-grid](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1260-shift-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1672-richest-customer-wealth) |
 ## Tree
@@ -461,6 +464,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0052-n-queens-ii) |
@@ -498,6 +502,11 @@
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0052-n-queens-ii) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
