@@ -22,6 +22,7 @@
 | [0412-fizz-buzz](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0633-sum-of-square-numbers) |
+| [0836-rectangle-overlap](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -509,4 +510,8 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0037-sudoku-solver) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
