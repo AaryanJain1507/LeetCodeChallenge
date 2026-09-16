@@ -57,6 +57,7 @@
 | [0016-3sum-closest](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0142-linked-list-cycle-ii) |
@@ -102,6 +103,7 @@
 | [0035-search-insert-position](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0055-jump-game) |
@@ -216,6 +218,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0062-unique-paths) |
@@ -226,6 +229,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0316-remove-duplicate-letters) |
@@ -358,6 +362,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0316-remove-duplicate-letters) |
 | [0503-next-greater-element-ii](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
