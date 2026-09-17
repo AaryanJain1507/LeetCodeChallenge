@@ -54,6 +54,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -96,6 +97,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
@@ -185,6 +187,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0134-gas-station) |
