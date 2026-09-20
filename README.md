@@ -261,6 +261,7 @@
 | [2974-minimum-number-game](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3174-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -349,6 +350,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3136-valid-word](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3136-valid-word) |
 | [3174-clear-digits](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3174-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Recursion
