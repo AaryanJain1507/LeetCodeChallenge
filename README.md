@@ -232,6 +232,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
@@ -320,6 +321,7 @@
 | [0005-longest-palindromic-substring](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0187-repeated-dna-sequences](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0187-repeated-dna-sequences) |
 | [0316-remove-duplicate-letters](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0383-ransom-note) |
@@ -525,4 +527,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0836-rectangle-overlap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
