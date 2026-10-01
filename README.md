@@ -237,6 +237,7 @@
 | [0042-trapping-rain-water](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0394-decode-string) |
@@ -461,12 +462,14 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0102-binary-tree-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0102-binary-tree-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/2236-root-equals-sum-of-children) |
 ## Counting Sort
 |  |
@@ -556,4 +559,5 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
