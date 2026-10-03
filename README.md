@@ -222,6 +222,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0055-jump-game) |
@@ -329,6 +330,7 @@
 | [0014-longest-common-prefix](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0187-repeated-dna-sequences](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0187-repeated-dna-sequences) |
 | [0316-remove-duplicate-letters](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0383-ransom-note) |
@@ -495,6 +497,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0051-n-queens) |
@@ -548,6 +551,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AaryanJain1507/LeetCodeChallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
