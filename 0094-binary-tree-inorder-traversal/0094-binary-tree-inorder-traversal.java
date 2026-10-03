@@ -13,18 +13,41 @@
  *     }
  * }
  */
+// class Solution {
+//     private List<Integer> list = new ArrayList<>();
+//     public List<Integer> inorderTraversal(TreeNode root) {
+//         traverse(root);
+//         return list;
+//     }
+//     private void traverse(TreeNode root){
+//         if(root == null){
+//             return;
+//         }
+//         traverse(root.left);
+//         list.add(root.val);
+//         traverse(root.right);
+//     }
+// }
 class Solution {
-    private List<Integer> list = new ArrayList<>();
-    public List<Integer> inorderTraversal(TreeNode root) {
-        traverse(root);
-        return list;
-    }
-    private void traverse(TreeNode root){
-        if(root == null){
-            return;
+    public List<Integer> inorderTraversal(TreeNode root){
+        List<Integer> inorder = new ArrayList<Integer>();
+        Stack<TreeNode> st = new Stack<TreeNode>();
+        TreeNode node = root;
+        while(true){
+            if(node != null){
+                st.push(node);
+                node = node.left;
+            }
+            else{
+                if(st.isEmpty()){
+                    break;
+                }
+                node = st.pop();
+                inorder.add(node.val);
+                node = node.right;
+            }
         }
-        traverse(root.left);
-        list.add(root.val);
-        traverse(root.right);
+        return inorder;
+        
     }
 }
